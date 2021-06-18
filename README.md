@@ -1,1 +1,1 @@
-# regresja_liniowa_projekt
+# Predykcja cen mieszkań z wykorzystaniem regresji liniowej
